@@ -20,6 +20,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 **Added name and Z# afterwards**
+
+
 ![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUwNTF5eHg3N2RxZWJmeWI0OGRleXdlZDlnYzJkNXFwY25sajhsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaUhs2Zq3AzUE9IBIN/giphy.gif)
 
 **Login Demonstration**
