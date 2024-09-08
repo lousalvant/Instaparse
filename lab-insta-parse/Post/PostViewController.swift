@@ -92,6 +92,7 @@ class PostViewController: UIViewController {
                 }
             }
         }
+
     }
 
     @IBAction func onViewTapped(_ sender: Any) {
